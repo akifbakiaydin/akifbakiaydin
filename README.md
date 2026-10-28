@@ -87,19 +87,4 @@ Alongside hardware, I handle IT infrastructure: workstations, networks and serve
 
 ---
 
-### 📈 GitHub activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akifbakiaydin&theme=tokyonight&hide_border=true" alt="GitHub streak">
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akifbakiaydin/akifbakiaydin/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/akifbakiaydin/akifbakiaydin/output/github-snake.svg" alt="Contribution graph">
-  </picture>
-</p>
-
----
-
 <p align="center"><i>Designing hardware that works — on the bench and in the field.</i></p>
